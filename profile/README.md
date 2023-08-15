@@ -5,6 +5,7 @@ Welcome to our open source project about Dungeons and Dragons!
 ## The idea
 We are still working on the requirements, but here is the current idea:
 > "An opensource platform in which people can homebrew and share their ideas over the internet. This interface will provide everyone a place in which they can play their DnD oneshots and campaigns with 5e rules as a base and their own or shared rules integrated, with automatic roll checks and a classy representation of whatever is happening!"
+
 Can't wait to see it? Join our team now!
 
 ## How are we doing this?
